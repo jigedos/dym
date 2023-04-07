@@ -100,7 +100,7 @@
 
 //M
 {"key":"MV大全","name":"MV大全","type":4,"api":"http://120.53.102.254/dsp/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xp_meiju56","name":"💢美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/meiju562.json"},
+{"key":"csp_xp_meiju56","name":"美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/meiju562.json"},
 
 //N
 {"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
