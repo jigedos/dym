@@ -34,18 +34,6 @@
 |25|https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json|
 |26|http://tv.lmlemon.com/app/yuan/lk.json|
 --------------------------------------------
-##开源仓库
-https://github.com/
-https://gitlab.com/
 
-https://gitee.com/
-https://coding.net/
-
-https://gitcode.net/
-https://gitea.com/仓库名是mao,tvbox,box,tv等类似的，有几率出现1.删除仓库2.删除用户3.封禁账户4.黑名单
-https://agit.ai/
-https://notabug.org/
-上面几个仓库我上传了文件，接口地址导入TVbox之后，不知道为什么总是配置失败，有知道的可以教我一下
-
-接口转换
+# github接口转换
 https://ghproxy.com/
