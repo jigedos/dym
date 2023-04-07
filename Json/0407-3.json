@@ -6,10 +6,8 @@
 //============================================================================================================================================
 "sites":[
 //==================================================================新增==================================================================
-{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitee.com/li5bo5/TVBox/raw/master/API/drpy2.min.js","ext":"https://gitee.com/li5bo5/TVBox/raw/master/EXT/drpy.js","jar":"https://gitee.com/li5bo5/TVBox/raw/master/Jar/spider.jar"},
-//"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-//"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js",
-//"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/drpy.js","jar":"https://gitee.com/li5bo5/TVBox/raw/master/Jar/spider.jar"},
+
 
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
