@@ -44,9 +44,9 @@
 {"key":"csp_XYQHiker_虎牙","name":"虎牙","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/li5bo5/TVBox-YS/raw/master/sub/%E8%99%8E%E7%89%99.json","jar":"https://gitee.com/li5bo5/TVBox-YS/raw/master/Yoursmile.jar"},
 {"key":"csp_XYQBiu_斗鱼","name":"斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/li5bo5/TVBox-YS/raw/master/sub/斗鱼.json","jar":"https://gitee.com/li5bo5/TVBox-YS/raw/master/Yoursmile.jar"},
 //后面开始改
-{"key":"csp_xbb_斗鱼","name":"斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/li5bo5/liubox/raw/main/sub/MeowXB/%E6%96%97%E9%B1%BC.json"},
-{"key":"csp_xp_huya","name":"虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/li5bo5/liubox/raw/main/sub/MeowXP/%E8%99%8E%E7%89%99.json"},
-{"key":"csp_xp_酷奇mv","name":"酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/li5bo5/liubox/raw/main/sub/MeowXP/%E9%85%B7%E5%A5%87MV.json"},
+{"key":"csp_xbb_斗鱼","name":"斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/li5bo5/liubox/raw/main/sub/MeowXB/%E6%96%97%E9%B1%BC.json","jar":"https://gitee.com/li5bo5/liubox/raw/main/sub/jar/2023.jar"},
+{"key":"csp_xp_huya","name":"虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/li5bo5/liubox/raw/main/sub/MeowXP/%E8%99%8E%E7%89%99.json","jar":"https://gitee.com/li5bo5/liubox/raw/main/sub/jar/2023.jar"},
+{"key":"csp_xp_酷奇mv","name":"酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/li5bo5/liubox/raw/main/sub/MeowXP/%E9%85%B7%E5%A5%87MV.json","jar":"https://gitee.com/li5bo5/liubox/raw/main/sub/jar/2023.jar"},
 
 {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/哔哩直播.js","jar":"https://gitee.com/li5bo5/TVBox/raw/master/Jar/spider.jar"},
 {"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"https://gitee.com/li5bo5/dr_TVBox/raw/master/libs/drpy.min.js","ext":"https://gitee.com/li5bo5/dr_TVBox/raw/master/js/斗鱼直播.js","jar":"https://gitee.com/li5bo5/TVBox/raw/master/Jar/spider.jar"},
