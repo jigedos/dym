@@ -20,23 +20,7 @@
     {"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/jgfx/TVBox/raw/master/xb/555%E7%94%B5%E5%BD%B1.json","jar": "https://gitee.com/jgfx/TVBox/raw/master/Jar/XBiubiuLA4.jar"
 },
 
-    {
-      "key": "多米蓝光",
-      "name": "🌽️多米影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://v.dmdh.top/api.php/app/"
-    },
-    {
-      "key": "爱迪V2",
-      "name": "💡️爱迪影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    },
+
        {
       "key": "Czsapp",
       "name": "🥷厂长资源",
