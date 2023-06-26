@@ -1,6 +1,6 @@
 {
-//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
-"spider": "https://gitee.com/jgfx/TVBox/raw/master/Jar/XBiubiuLA4.jar",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
+
 
 
   "lives": [
@@ -17,7 +17,8 @@
     }
   ],
   "sites": [
-    {"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/jgfx/TVBox/raw/master/xb/555%E7%94%B5%E5%BD%B1.json"},
+    {"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/jgfx/TVBox/raw/master/xb/555%E7%94%B5%E5%BD%B1.json","jar": "https://gitee.com/jgfx/TVBox/raw/master/Jar/XBiubiuLA4.jar"
+},
 
     {
       "key": "多米蓝光",
