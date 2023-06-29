@@ -3,79 +3,7 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img", 
     "sites": [
       
-        {
-            "key": "360", 
-            "name": "360┃解析", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": "http://xhww.fun:63/小米/源/360.json"
-        }, 
-        {
-            "key": "玩偶", 
-            "name": "玩偶┃阿里", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "ext": {
-                "二次截取": "1&&-1+module-item-cover", 
-                "数组": "module-item-pic&&module-item-cover", 
-                "图片": "data-src\"&&\"", 
-                "副标题": "module-item-text*>&&</div", 
-                "链接": "href=\"&&\"", 
-                "导演": "导演：&&</div>", 
-                "主演": "主演：&&</div>", 
-                "简介": "剧情：&&</div>", 
-                "搜索url": "http://tvfan.xxooo.cf/index.php/vodsearch/-------------.html?wd={wd}", 
-                "分类url": "http://tvfan.xxooo.cf/index.php/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;阿里", 
-                "阿里token": "http://127.0.0.1:9978/file/tvfan/token.txt", 
-                "分类": "电影$1#国产剧$21#日韩剧$23#欧美剧$22#综艺$28#动漫$24"
-            }
-        }, 
-        
-        {
-            "key": "看看", 
-            "name": "看看┃BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "jar": "http://xiaohewanwan.love/jar/zy0425.jar;md5;975c8ac43a0f8513bb4d32ca0de03340", 
-            "ext": {
-                "主页url": "https://kankanju.cc", 
-                "副标题": "pic-text text-right\">&&</b>", 
-                "搜索模式": "1", 
-                "搜索url": "https://kankanju.cc/vodsearch.html?wd={wd}&submit=", 
-                "搜索数组": "stui-vodlist__box\">&&</a>", 
-                "搜索图片": "data-original=\"&&\"", 
-                "搜索标题": "alt=\"&&\"", 
-                "搜索副标题": "pic-text text-right\">&&</div>", 
-                "搜索链接": "href=\"&&\"", 
-                "搜索后缀": "/vod/", 
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放", 
-                "导演": "导演：&&</div>", 
-                "主演": "主演：&&</div>", 
-                "简介": "introduction-content\">&&</span>", 
-                "线路数组": "stui-vodlist__head\"&&/h3>", 
-                "线路标题": "class=\"title\"&&<", 
-                "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman", 
-                "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"
-            }
-        }, 
-        {
-            "key": "速搜", 
-            "name": "速搜┃BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "playerType": "1", 
-            "ext": "http://xhww.fun:63/小米/源/速搜.json"
-        }, 
-        {
-            "key": "热播库", 
-            "name": "热播┃BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": "http://xhww.fun:63/小米/源/热播.json"
-        }, 
+      
         {
             "key": "蚂蚁", 
             "name": "蚂蚁┃BPQ", 
@@ -90,197 +18,7 @@
             "api": "csp_XBPQ", 
             "ext": "http://xhww.fun:63/小米/源/饭团.json"
         }, 
-        {
-            "key": "利播", 
-            "name": "利播┃BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": "http://xhww.fun:63/小米/源/利播.json"
-        }, 
-        {
-            "key": "野马", 
-            "name": "野马┃️BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": "http://xhww.fun:63/小米/源/野马.json"
-        }, 
-        {
-            "key": "小鱼", 
-            "name": "小鱼┃️BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": "http://xhww.fun:63/小米/源/小鱼.json"
-        }, 
-        {
-            "key": "滋滋", 
-            "name": "滋滋┃BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "playerType": "1", 
-            "ext": "http://xhww.fun:63/小米/源/子子.json"
-        }, 
-        {
-            "key": "熊熊", 
-            "name": "熊熊┃BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "playerType": "1", 
-            "ext": "http://xhww.fun:63/小米/源/熊熊.json"
-        }, 
-        {
-            "key": "ok", 
-            "name": "Free┃BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "playerType": "1", 
-            "ext": "http://xhww.fun:63/小米/源/free.json"
-        }, 
-        {
-			"key": "猫猫",
-			"name": "猫猫｜BPQ",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"api": "csp_XBPQ",
-			"ext": {
-				"主页url": "https://v.rjumao.com/index.php/ajax/data?mid=1&tid=1&page=1&limit=20",
-				"请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Referer$https://v.rjumao.com/",
-				"强制解析": "0",
-				"图片代理": "0",
-				"二次截取": "",
-				"数组": "{\"v&&}",
-				"图片": "vod_pic\":\"&&\"",
-				"标题": "vod_name\":\"&&\"",
-				"副标题": "vod_version\":\"&&\"+vod_remarks\":\"&&\"",
-				"链接": "https://v.rjumao.com/index.php/vod/detail/id/+od_id\":&&,+.html",
-				"分类url": "https://v.rjumao.com/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
-				"嗅探词":".mp4#.m3u8",
-				"分类": "请搜索看$1",
-				"搜索模式": "1",
-				"搜索url": "https://v.rjumao.com/index.php/vod/search.html?wd={wd}",
-				"搜索数组": "public-list-exp\"&&thumb-else cor5 hide\"",
-				"搜索链接": "href=\"&&\"",
-				"搜索链接前缀": "https://v.rjumao.com/",
-				"搜索标题": "thumb-txt cor4 hide\">&&</div",
-				"搜索图片": "data-original=\"&&\"",
-				"搜索副标题": "class=\"public-list-prb hide ft2\">&&</span",
-				"播放链接前缀": "https://v.rjumao.com/",
-			   "跳转播放链接":"https://b.rzyl.site/player/analysis.php?v=+link_pre*url\":\"&&\"",
-				"线路数组": "<a class=\"swiper-slide\"><i&&</a>"
-			}
-		},
-        {
-            "key": "臭蛋", 
-            "name": "臭蛋┃BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": "http://xhww.fun:63/小米/源/蛋蛋.json"
-        }, 
-        {
-            "key": "外剧迷", 
-            "name": "外剧┃BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 0, 
-            "ext": "http://xhww.fun:63/小米/源/外剧.json"
-        }, 
-        {
-            "key": "找资源", 
-            "name": "资源┃阿里", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": {
-                "数组": "news_text&&</div>", 
-                "标题": "<h3>&&</h3>", 
-                "副标题": "时间：&&</p>", 
-                "图片": "http://xiaohewanwan.love/tvbox/aliyun.png", 
-                "链接": "/+href=\"&&\"", 
-                "跳转数组": "</div>*<a&&</a>", 
-                "跳转链接": "https://www.aliyundrive.com/s/+aliyundrive.com/s/&&\"", 
-                "搜索url": "https://zhaoziyuan.la/so?filename={wd}&page=1;;ckrS5", 
-                "登录": "https://zhaoziyuan.la/logiu.html;post;username=xiaomi&password=123456", 
-                "阿里token": "http://127.0.0.1:9978/file/tvfan/token.txt"
-            }
-        }, 
-        {
-			"key": "4K搜索",
-			"name": "阿里┃盘搜",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": {
-				"数组":"<div class=\"flex flex-col&&/p>",
-				"标题": "<span class='highlight-keyword'>&&</span+>&&描述[不包含:不要][替换:名称：>>空]",
-				"副标题": "更→+<p>资源发布时间：<!-- -->&&<",
-				"图片": "src=\"&&\"",
-				"链接": "href=\"&&\"",
-				"阿里token": "http://127.0.0.1:9978/file/tvfan/token.txt",
-				"搜索url": "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;S5"
-			}
-		},
-        {
-            "key": "小站", 
-            "name": "小里┃阿里", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": {
-                "二次截取": "\"data\"*[&&]", 
-                "数组": "{&&}", 
-                "图片": "http://xiaohewanwan.love/tvbox/aliyun.png", 
-                "标题": "\"title\"*\"&&\"", 
-                "副标题": "\"createdAt\"*\"&&\"", 
-                "链接": "https://pan666.net/d/+\"slug\"*\"&&\"", 
-                "跳转链接": "https://www.aliyundrive.com/s/+aliyundrive.com/s/&&\"", 
-                "阿里token": "http://127.0.0.1:9978/file/tvfan/token.txt", 
-                "搜索url": "https://pan666.net/?q={wd}", 
-                "分类url": "https://pan666.net/api/discussions?include=user,lastPostedUser,tags,tags.parent,firstPost&filterktagm={cateId}&sort&page[offset]=20;;K阿里S5", 
-                "分类": "电影$video1#动漫$cartoon"
-            }
-        }, 
-        {
-            "key": "PPY", 
-            "name": "鸭鸭┃采集", 
-            "type": 1, 
-            "api": "https://www.pipiya.cc/api.php/provide/vod/", 
-            "playUrl": "json:http://xhww.fun:63/再偷就删.php?url=", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
-        }, 
-        {
-            "key": "轻简", 
-            "name": "简简┃采集", 
-            "type": 1, 
-            "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/", 
-            "playUrl": "json:http://xhww.fun:63/再偷就删.php?url=", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "categories": [
-                "电影", 
-                "电视剧", 
-                "综艺", 
-                "动漫"
-            ]
-        }, 
-        {
-            "key": "初语", 
-            "name": "初语┃采集", 
-            "type": 1, 
-            "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/", 
-            "playUrl": "json:http://xhww.fun:63/再偷就删.php?url=", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "categories": [
-                "电影", 
-                "连续剧", 
-                "综艺", 
-                "动漫"
-            ]
-        }, 
+
         {
             "key": "dr_88看球", 
             "name": "球赛┃体育", 
@@ -331,17 +69,7 @@
             "filterable": 1, 
             "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         }, 
-        {
-            "key": "csp_ruyi", 
-            "name": "如意┃APP", 
-            "type": 3, 
-            "api": "csp_AppYsV2", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "playerType": "1", 
-            "ext": "http://cms.maoyingshi.cc/api.php/app/"
-        }, 
+       
         {
             "key": "蓝光官采", 
             "name": "猫咪┃解析", 
@@ -371,16 +99,7 @@
                 "记录片"
             ]
         }, 
-        {
-            "key": "Duomi", 
-            "name": "多米┃APP", 
-            "type": 3, 
-            "api": "csp_AppYsV2", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "ext": "http://vod.dmdh.top:5680/api.php/app/"
-        }, 
+      
         {
             "key": "暴风资源", 
             "name": "暴风┃采集", 
@@ -411,37 +130,7 @@
                 "动漫"
             ]
         }, 
-        {
-            "key": "非凡资源", 
-            "name": "非凡┃切片", 
-            "type": 1, 
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/", 
-            "searchable": 1, 
-            "playUrl": "json:http://jx.84jia.com/m3u8ts.php?url=", 
-            "quickSearch": 1, 
-            "categories": [
-                "国产剧", 
-                "韩国剧", 
-                "香港剧", 
-                "台湾剧", 
-                "欧美剧", 
-                "动作片", 
-                "科幻片", 
-                "战争片", 
-                "奇幻片", 
-                "喜剧片", 
-                "爱情片", 
-                "恐怖片", 
-                "犯罪片", 
-                "悬疑片", 
-                "惊悚片", 
-                "剧情片", 
-                "冒险片", 
-                "记录片", 
-                "综艺", 
-                "动漫"
-            ]
-        }, 
+    
         {
             "key": "快看资源", 
             "name": "快看┃切片", 
