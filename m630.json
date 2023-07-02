@@ -7,7 +7,7 @@
    {
 "name": "redirect",
 "urls": [
-  "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy9keW0vbWFzdGVyL21hc3RlcnpiLnR4dA=="
+  "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy9keW0vbWFzdGVyL2J1bGVpemIudHh0"
 ]
    }
  ]
