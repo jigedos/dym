@@ -1,16 +1,14 @@
 {
 "spider": "https://gitee.com/jgfx/TVBox/raw/master/Jar/0324.jar",
-
-
-
-  "lives": [
+ "lives": [
     {
  "group": "redirect",
  "channels": [
    {
 "name": "redirect",
 "urls": [
- "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vamdmeC9FUEcvcmF3L21hc3Rlci9idWxlaXpiLnR4dA=="]
+  "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vamdmeC9FUEcvcmF3L21hc3Rlci9idWxlaXpiLnR4dA=="
+]
    }
  ]
     }
