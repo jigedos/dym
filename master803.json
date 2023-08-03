@@ -553,6 +553,186 @@
    "filterable": 0,
    "ext": "./js/武享吧.js"
   },
+   {
+            "key": "csp_Bili",
+            "name": "🅱️┃哔哩┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/bili.json"
+        },	
+        {
+            "key": "py_dashan",
+            "name": "💋┃搭讪┃教程",
+            "type": 3,
+            "api": "py_dashan",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/搭讪.py"
+        },
+        {
+            "key": "py_dapei",
+            "name": "💃┃搭配┃教程",
+            "type": 3,
+            "api": "py_dapei",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/搭配.py"
+        },
+        {
+            "key": "js_B站精简",
+            "name": "🅱️┃哔哩┃精简",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/B站精简.js"
+        },
+        {
+            "key": "py_meishi",
+            "name": "🅱️┃美食┃合集",
+            "type": 3,
+            "api": "py_meishi",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/美食合集.py"
+        },
+        {
+            "key": "py_youer",
+            "name": "🅱️┃幼儿┃教育",
+            "type": 3,
+            "api": "py_youer",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/youer.py"
+        },
+        {
+            "key": "py_xiaoxue",
+            "name": "🅱️┃小学┃教育",
+            "type": 3,
+            "api": "py_xiaoxue",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/xiaoxue.py"
+        },
+        {
+            "key": "py_czxx",
+            "name": "🅱️┃初中┃教育",
+            "type": 3,
+            "api": "py_czxx",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/chuzhong.py"
+        },
+        {
+            "key": "py_gaozxx",
+            "name": "🅱️┃高中┃教育",
+            "type": 3,
+            "api": "py_gaozxx",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/gaozhong.py"
+        },
+        {
+            "key": "py_zyy",
+            "name": "🅱️┃中医┃药区",
+            "type": 3,
+            "api": "py_zyy",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/zyy.py"
+        },
+        {
+            "key": "py_xuqu1",
+            "name": "🅱️┃戏曲┃合集",
+            "type": 3,
+            "api": "py_xuqu1",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/xiqu.py"
+        },
+        {
+            "key": "py_TYjs",
+            "name": "🅱️┃体育┃健身",
+            "type": 3,
+            "api": "py_TYjs",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/tiyu.py"
+        },
+        {
+            "key": "py_xiangsh",
+            "name": "🅱️┃相声┃小品",
+            "type": 3,
+            "api": "py_xiangsh",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/xiaopin.py"
+        },
+        {
+            "key": "py_FBqx",
+            "name": "🅱️┃球队┃球星",
+            "type": 3,
+            "api": "py_FBqx",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/qiudui.py"
+        },
+        {
+            "key": "py_Meinvw",
+            "name": "🅱️┃美女┃舞蹈",
+            "type": 3,
+            "api": "py_Meinvw",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/meinv.py"
+        },
+        {
+            "key": "py_yanchh",
+            "name": "🅱️┃歌手┃合集",
+            "type": 3,
+            "api": "py_yanchh",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/geshou.py"
+        },
+        {
+            "key": "py_Nvtuan",
+            "name": "🅱️┃女团┃热舞",
+            "type": 3,
+            "api": "py_Nvtuan",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/nvtuan.py"
+        },
+        {
+            "key": "py_MTV",
+            "name": "🅱️┃歌曲┃视频",
+            "type": 3,
+            "api": "py_MTV",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./PY/mtv.py"
+        },
     {
       "key": "drpy_js_相声随身听",
       "name": "相声 | 相声随身听",
