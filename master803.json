@@ -561,7 +561,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/bili.json"
+            "ext": "./py/bili.json"
         },	
         {
             "key": "py_dashan",
@@ -571,7 +571,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/搭讪.py"
+            "ext": "./py/搭讪.py"
         },
         {
             "key": "py_dapei",
@@ -581,7 +581,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/搭配.py"
+            "ext": "./py/搭配.py"
         },
         {
             "key": "js_B站精简",
@@ -591,7 +591,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/B站精简.js"
+            "ext": "./py/B站精简.js"
         },
         {
             "key": "py_meishi",
@@ -601,7 +601,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/美食合集.py"
+            "ext": "./py/美食合集.py"
         },
         {
             "key": "py_youer",
@@ -611,7 +611,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/youer.py"
+            "ext": "./py/youer.py"
         },
         {
             "key": "py_xiaoxue",
@@ -621,7 +621,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/xiaoxue.py"
+            "ext": "./py/xiaoxue.py"
         },
         {
             "key": "py_czxx",
@@ -631,7 +631,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/chuzhong.py"
+            "ext": "./py/chuzhong.py"
         },
         {
             "key": "py_gaozxx",
@@ -641,7 +641,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/gaozhong.py"
+            "ext": "./py/gaozhong.py"
         },
         {
             "key": "py_zyy",
@@ -651,7 +651,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/zyy.py"
+            "ext": "./py/zyy.py"
         },
         {
             "key": "py_xuqu1",
@@ -661,7 +661,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/xiqu.py"
+            "ext": "./py/xiqu.py"
         },
         {
             "key": "py_TYjs",
@@ -671,7 +671,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/tiyu.py"
+            "ext": "./py/tiyu.py"
         },
         {
             "key": "py_xiangsh",
@@ -681,7 +681,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/xiaopin.py"
+            "ext": "./py/xiaopin.py"
         },
         {
             "key": "py_FBqx",
@@ -691,7 +691,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/qiudui.py"
+            "ext": "./py/qiudui.py"
         },
         {
             "key": "py_Meinvw",
@@ -701,7 +701,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/meinv.py"
+            "ext": "./py/meinv.py"
         },
         {
             "key": "py_yanchh",
@@ -711,7 +711,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/geshou.py"
+            "ext": "./py/geshou.py"
         },
         {
             "key": "py_Nvtuan",
@@ -721,7 +721,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/nvtuan.py"
+            "ext": "./py/nvtuan.py"
         },
         {
             "key": "py_MTV",
@@ -731,7 +731,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./PY/mtv.py"
+            "ext": "./py/mtv.py"
         },
     {
       "key": "drpy_js_相声随身听",
