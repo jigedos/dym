@@ -2,8 +2,7 @@
  "spider": "https://gitee.com/jgfx/TVBox/raw/master/Jar/0324.jar",
   //"spider": "https://gitee.com/jgfx/TVBox/raw/master/m803.jar",
   "warningText":"公众号非凡工具箱提醒您:本接口长期更新 完全免费 请放心使用",
-  {"key":"提示","name":"公众号：爱软研究社","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"说明","name":"软件接口完全免费","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+
   "lives": [
     {
       "group": "redirect",
