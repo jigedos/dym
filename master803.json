@@ -387,7 +387,7 @@
 
 
 
-      {"key": "csp_htl","name": "🐺灰太狼蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E7%81%B0%E5%A4%AA%E7%8B%BC%E5%BD%B1%E8%A7%86.json"}, 
+      {"key": "csp_htl","name": "🐺灰太狼蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/%E7%81%B0%E5%A4%AA%E7%8B%BC%E5%BD%B1%E8%A7%86.json"}, 
 
      {"key": "轻简", "name": "影视 | ️轻简", "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影", "电视剧", "综艺", "动漫"]}, 
     {
@@ -465,20 +465,20 @@
             "ext": "https://jihulab.com/ymz1231/js/-/raw/main/ikan.js"},           
 
     {"key":"臭蛋蛋","name":"🥚臭蛋蛋┃高清","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4#纪录片$38","分类url":"https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mc"}},
-  {"key": "csp_低端","name": "🚜低端|蓝光","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json"},  
+  {"key": "csp_低端","name": "🚜低端|蓝光","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json"},  
 
 {
             "key": "dr_ymi",
             "name": "⭐┃映迷蓝光┃",
             "type": 3,
-            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/映迷影院.js"},  
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/映迷影院.js"},  
 
-       {"key":"csp_fk","name":"🍾菲克蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/菲克高清.json"},
+       {"key":"csp_fk","name":"🍾菲克蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/菲克高清.json"},
 
             {"key":"csp_策驰","name":"影视 | ️策驰高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/策驰影视.json"},
 
-    {"key": "csp_mingd","name": "影视 | ️明帝高清","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./js/%E6%98%8E%E5%B8%9D.json"},
+    {"key": "csp_mingd","name": "影视 | ️明帝高清","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./js/明帝.json"},
     {
       "key": "drpy_js_好趣网",
       "name": "综合 | 好趣网",
