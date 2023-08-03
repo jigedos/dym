@@ -1,5 +1,6 @@
 {
-  "spider": "https://gitee.com/jgfx/TVBox/raw/master/Jar/0324.jar",
+ //"spider": "https://gitee.com/jgfx/TVBox/raw/master/Jar/0324.jar",
+  "spider": "https://gitee.com/jgfx/TVBox/raw/master/master.jar",
   "warningText":"🐱公众号非凡工具箱提醒您:本接口长期更新 完全免费 请放心使用🐱",
   "lives": [
     {
