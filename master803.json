@@ -463,6 +463,16 @@
       "ext": "./js/JRKAN直播.js"
     },
     {
+   "key": "dr_武享吧",
+   "name": "💪拳皇争霸",
+   "type": 3,
+   "api": "./js/drpy2.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "./js/武享吧.js"
+  },
+    {
       "key": "drpy_js_相声随身听",
       "name": "相声 | 相声随身听",
       "type": 3,
