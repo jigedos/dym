@@ -54,7 +54,7 @@
     },
     {
       "key": "csp_XBPQ_6V",
-      "name": "magnet |4K磁力",
+      "name": "magnet | 4K磁力",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -64,7 +64,7 @@
     },
     {
       "key": "csp_Mp4Mov",
-      "name": "magnet |Mp4电影",
+      "name": "magnet | Mp4电影",
       "type": 3,
       "api": "csp_Mp4Mov",
       "searchable": 1,
@@ -74,7 +74,7 @@
     },
     {
       "key": "csp_SeedHub",
-      "name": "magnet |SeedHub",
+      "name": "magnet | SeedHub",
       "type": 3,
       "api": "csp_SeedHub",
       "playerType": 1,
@@ -85,7 +85,7 @@
     },
     {
       "key": "csp_KubaCL",
-      "name": "magnet |酷吧电影",
+      "name": "magnet | 酷吧",
       "type": 3,
       "api": "csp_KubaCL",
       "playerType": 1,
