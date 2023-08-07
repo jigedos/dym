@@ -1,8 +1,7 @@
 {
   "spider": "https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar",
-    //"spider":"https://agit.ai/65012833/Jar/raw/branch/master/1218.jar",
-//"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
-"warningText": "！郑重提醒：请勿相信影片中的各种广告！如若头铁，请观看影片《孤注一掷》",
+  "warningText": "！郑重提醒：请勿相信影片中的各种广告！如若头铁，请观看影片《孤注一掷》",
+  "lives": [
     {
       "group": "redirect",
       "channels": [
