@@ -8,7 +8,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzY1MDEyODMzL2RpYW5zaGkvcmF3L2JyYW5jaC9tYXN0ZXIv55S16KeG55u05pKtLmpzb24="
+            "proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzkxMTkvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbyUzRCUzQTA="
           ]
         }
       ]
@@ -41,14 +41,14 @@
     },
     {
       "key": "drpy_js_77",
-      "name": "七七|直连",
+      "name": "七七",
       "type": 3,
       "api": "https://gitee.com/ouhaibo/ou/raw/master/js/apiv71drpy2.min.js",
       "ext": "https://gitee.com/ouhaibo/ou/raw/master/js/77.js"
     },
     {
       "key": "csp_Lgyy",
-      "name": "💧蓝光影院┃吾爱评测",
+      "name": "蓝光影院",
       "type": 3,
       "api": "csp_Lgyy",
       "searchable": 1,
@@ -76,17 +76,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_biubiu_子子影视",
-      "name": "1子子影视",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/65012833/Json/raw/branch/master/ziziyingshi.json",
-      "spider": "img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png"
-    },
+
     {
       "key": "csp_xpath_小小影视",
       "name": "X小小影视",
@@ -110,7 +100,7 @@
     },
     {
       "key": "csp_biubiu_骚火电影",
-      "name": "骚火电影(XB)",
+      "name": "骚火电影",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
