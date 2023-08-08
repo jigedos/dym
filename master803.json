@@ -52,6 +52,12 @@
         "电影解说"
       ]
     },
+    {"key": "csp_阿里七夜","name": "阿里 ┃ 七夜[4K]","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/jgfx/TVBox/raw/master/EXT/alitoken.txt"},
+{"key":"csp_TuGou","name":"阿里 ┃ 土狗[4K]","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/jgfx/TVBox/raw/master/EXT/alitoken.txt"},				
+{"key":"PanSearch","name":"阿里 ┃ PanS[4K]","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/jgfx/TVBox/raw/master/EXT/alitoken.txt"},	
+{"key": "Upyunso","name": "阿里 ┃ 云搜[4K]","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/jgfx/TVBox/raw/master/EXT/alitoken.txt"},
+{"key": "Alips","name": "阿里 ┃ 盘搜[4K]","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/jgfx/TVBox/raw/master/EXT/alitoken.txt"},
+{"key": "Zhaozy","name": "阿里 ┃ 找片[4K]","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/jgfx/TVBox/raw/master/EXT/alitoken.txt$$$自己去注册$$$qq112233"},
     {
       "key": "csp_XBPQ_6V",
       "name": "magnet | 4K磁力",
