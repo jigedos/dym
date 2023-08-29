@@ -184,7 +184,7 @@
       "key": "drpy_哔哩影视",
       "name": "影视 | 哔哩影视",
       "type": 3,
-      "api": "https://gitee.com/zhen169/ikdd/raw/master/drpy.min.js",
+      "api": "./lib/drpy.min.js",
       "ext": "./js/哔哩影视.js"
     },
     {
@@ -197,17 +197,7 @@
       "changeable": 0,
       "ext": "./js/新片场.js"
     },
-    {
-      "key": "鸭鸭",
-      "name": "影视 | 鸭鸭",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/",
-      "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"
-    },
+  
     {
       "key": "csp_AppMr",
       "name": "影视 | 小明",
@@ -226,38 +216,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_xBPQ_快看影视",
-      "name": "影视 | 快看[备]",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/cainisi/TVBox/raw/master/xBPQ/快看影视.json",
-      "jar": "https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
-    },
-    {
-      "key": "csp_Dy1010",
-      "name": "影视 | 双十",
-      "type": 3,
-      "api": "csp_Dy1010",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"
-    },
-    {
-      "key": "csp_xBPQ_双十电影",
-      "name": "影视 | 双十[备]",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/cainisi/TVBox/raw/master/xBPQ/双十电影.json",
-      "jar": "https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
-    },
+  
     {
       "key": "csp_77",
       "name": "影视 | 鲲隅七七",
@@ -303,27 +262,8 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/萌蛋蛋[V2].js"
     },
-    {
-      "key": "drpy_js_迷你库[V2]",
-      "name": "影视 | 迷你库",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/迷你库[V2].js"
-    },
-    {
-      "key": "drpy_js_速看100[V2]",
-      "name": "影视 | 速看100",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/速看100[V2].js"
-    },
-    {
-      "key": "drpy_js_7喜影院",
-      "name": "影视 | 7喜影院",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/7喜影院.js"
-    },
+   
+
     {
       "key": "drpy_js_139影视",
       "name": "影视 | 139影视",
@@ -331,24 +271,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/139影视.js"
     },
-    {
-      "key": "drpy_js_创艺影视",
-      "name": "影视 | 创艺影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/创艺影视.js"
-    },
-    {
-      "key": "csp_xBPQ_创意影视",
-      "name": "影视 | 创意[备]",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/cainisi/TVBox/raw/master/xBPQ/创意影视.json",
-      "jar": "https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
-    },
+  
     {
       "key": "drpy_js_光棍影院",
       "name": "影视 | 光棍影院",
@@ -356,20 +279,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/光棍影院.js"
     },
-    {
-      "key": "drpy_js_看看屋",
-      "name": "影视 | 看看屋",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/看看屋.js"
-    },
-    {
-      "key": "drpy_js_乐鱼影视",
-      "name": "影视 | 乐鱼影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/乐鱼影视.js"
-    },
+ 
     {
       "key": "drpy_js_乐猪TV",
       "name": "影视 | 乐猪TV",
@@ -387,17 +297,7 @@
       "filterable": 0,
       "ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/lezhutv.json"
     },
-    {
-      "key": "csp_xBPQ_冷曦影视",
-      "name": "影视 | 冷曦影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/cainisi/TVBox/raw/master/xBPQ/冷曦影视.json",
-      "jar": "https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
-    },
+  
     {
       "key": "drpy_js_两个BT",
       "name": "影视 | 两个BT",
@@ -419,17 +319,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/素白白.js"
     },
-    {
-      "key": "csp_xBPQ_素白白影视",
-      "name": "影视 | 素白白[备]",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitee.com/cainisi/TVBox/raw/master/xBPQ/素白白影视.json",
-      "jar": "https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
-    },
+
     {
       "key": "drpy_js_我爱跟剧",
       "name": "影视 | 我爱跟剧",
@@ -437,13 +327,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/我爱跟剧.js"
     },
-    {
-      "key": "drpy_js_稀饭影视",
-      "name": "影视 | 稀饭影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/稀饭影视.js"
-    },
+
     {
       "key": "drpy_js_子子影视",
       "name": "影视 | 子子影视",
@@ -509,16 +393,7 @@
       "filterable": 1,
       "ext": "https://kankanju.cc/api.php/app/"
     },
-    {
-      "key": "csp_htl",
-      "name": "影视 | ️灰太狼",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/灰太狼影视.json"
-    },
+
     {
       "key": "轻简",
       "name": "影视 | ️轻简",
@@ -557,43 +432,8 @@
         "泰剧"
       ]
     },
-    {
-      "key": "暴风采集",
-      "name": "影视 | ️暴风",
-      "type": 1,
-      "api": "https://app.bfzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "动作片",
-        "科幻片",
-        "剧情片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "战争片",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "欧美剧",
-        "泰国剧",
-        "日本动漫",
-        "综艺频道",
-        "大陆综艺",
-        "港台综艺",
-        "日本综艺",
-        "新马泰综艺",
-        "纪录片"
-      ]
-    },
-    {
-      "key": "ymzy",
-      "name": "影视 | ️蓝光",
-      "type": 3,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "./js/%E8%87%AA%E8%90%A5.js"
-    },
+   
+ 
     {
       "key": "EMO",
       "name": "影视 | ️蓝光APP",
@@ -605,7 +445,7 @@
       "key": "dr_jqr",
       "name": "影视 | ️聚合",
       "type": 3,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/ikan.js"
     },
     {
@@ -629,36 +469,8 @@
       "filterable": 1,
       "ext": "./js/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json"
     },
-    {
-      "key": "csp_fk",
-      "name": "影视 | ️菲克蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/菲克高清.json"
-    },
-    {
-      "key": "csp_策驰",
-      "name": "影视 | ️策驰高清",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/策驰影视.json"
-    },
-    {
-      "key": "csp_mingd",
-      "name": "影视 | ️明帝高清",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/明帝.json"
-    },
+
+   
     {
       "key": "drpy_js_好趣网",
       "name": "综合 | 好趣网",
@@ -766,116 +578,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./py/B站精简.js"
-    },
-    {
-      "key": "py_meishi",
-      "name": "B站 | 美食合集",
-      "type": 3,
-      "api": "py_meishi",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/美食合集.py"
-    },
-    {
-      "key": "py_youer",
-      "name": "B站 | 幼儿教育",
-      "type": 3,
-      "api": "py_youer",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/youer.py"
-    },
-    {
-      "key": "py_xiaoxue",
-      "name": "B站 | 小学教育",
-      "type": 3,
-      "api": "py_xiaoxue",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/xiaoxue.py"
-    },
-    {
-      "key": "py_czxx",
-      "name": "B站 | 初中教育",
-      "type": 3,
-      "api": "py_czxx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/chuzhong.py"
-    },
-    {
-      "key": "py_gaozxx",
-      "name": "B站 | 高中教育",
-      "type": 3,
-      "api": "py_gaozxx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/gaozhong.py"
-    },
-    {
-      "key": "py_zyy",
-      "name": "B站 | 中医药",
-      "type": 3,
-      "api": "py_zyy",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/zyy.py"
-    },
-    {
-      "key": "py_xuqu1",
-      "name": "B站 | 戏曲合集",
-      "type": 3,
-      "api": "py_xuqu1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/xiqu.py"
-    },
-    {
-      "key": "py_TYjs",
-      "name": "B站 | 体育健身",
-      "type": 3,
-      "api": "py_TYjs",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/tiyu.py"
-    },
-    {
-      "key": "py_xiangsh",
-      "name": "B站 | 相声小品",
-      "type": 3,
-      "api": "py_xiangsh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/xiaopin.py"
-    },
-    {
-      "key": "py_FBqx",
-      "name": "B站 | 球队球星",
-      "type": 3,
-      "api": "py_FBqx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/qiudui.py"
-    },
-    {
-      "key": "py_Meinvw",
-      "name": "B站 | 美女舞蹈",
-      "type": 3,
-      "api": "py_Meinvw",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/meinv.py"
     },
     {
       "key": "csp_Biliych",
