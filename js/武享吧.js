@@ -22,7 +22,7 @@ var rule = {
 		"img": ".aligncenter&&data-original",
 		"desc": ";;;.views:eq(0)&&Text;",
 		"content": "h1&&Text",
-		"tabs": "js:TABS=['拳皇争霸']",
+		"tabs": "js:TABS=['道长在线']",
 		"lists": `js:
 			var html = JSON.parse(request(input).match(/var bevideo_vids_.*?=({[\\s\\S]*?});/)[1]);
 			let list = [];
